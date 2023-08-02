@@ -1,6 +1,6 @@
 # Тестовое задание "Приложение по отображению маршрутов на карте"
 
-![Alt Text](https://s11.gifyu.com/images/ScuUZ.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/835627160709365852/1136364972847419503/Desktop_2023.08.02_-_21.15.06.01_1.gif)
 
 * Задача:
 
