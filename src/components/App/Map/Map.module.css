@@ -1,0 +1,21 @@
+.subtitle {
+  margin: 0;
+}
+.wrapper {
+  width: 100%;
+  padding: 15px;
+}
+.tooltip {
+  opacity: 0;
+  animation: ani 0.9s forwards;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@keyframes ani {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}

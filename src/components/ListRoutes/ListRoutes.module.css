@@ -1,0 +1,15 @@
+.row {
+  cursor: pointer;
+  background-color: #fff;
+}
+ 
+.table {
+  max-width: 45%;
+  margin-top: 200px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+
